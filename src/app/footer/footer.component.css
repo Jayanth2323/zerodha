@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 .footer{
+=======
+/* .footer{
+>>>>>>> a60a0e4 (Second Commit)
     background-color: #fbfbfb;
     padding-left: 50px;
     padding-right: 40px;
     display: flex;
+<<<<<<< HEAD
 }  
 
 #first{
@@ -18,4 +23,13 @@
 .second{
     display: flex;
     justify-content: space-evenly;
+=======
+} */
+
+#first{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 3.75rem;
+    padding-right: 10rem;
+>>>>>>> a60a0e4 (Second Commit)
 }
