@@ -1,13 +1,21 @@
-/* .footer{
+.footer{
     background-color: #fbfbfb;
     padding-left: 50px;
     padding-right: 40px;
     display: flex;
-} */
+}  
 
 #first{
+    cursor: pointer;
     display: flex;
     justify-content: space-between;
+    color: #666;
     padding-left: 3.75rem;
     padding-right: 10rem;
+    padding-top: 3.125rem;
+}
+
+.second{
+    display: flex;
+    justify-content: space-evenly;
 }
