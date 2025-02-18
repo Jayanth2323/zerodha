@@ -1,0 +1,23 @@
+.header{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 3.75rem;
+    padding-right: 3.75rem;
+    /* padding-left: 60px;
+    padding-right: 60px; */
+    border-bottom: 1px solid #bbb;
+}
+ul{
+    
+    display: flex;
+    column-gap: 3.125rem;/* 50px */
+    
+}
+li{
+    cursor: pointer;
+    list-style: none;
+    column-gap: 3.125rem;/* 50px */
+    font-size: 1.2rem;/* 20px */
+}
